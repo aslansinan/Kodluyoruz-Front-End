@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(102, 80, 80);
+    color: white;
+    font-family: "Roboto", sans-serif;
+  }
+  h2 {
+    color: red;
+    font-size: 24px;
+    text-transform: uppercase;
+  }
+  p {
+    font-size: 20px;
+    color: chartreuse;
+  }
+  
+  ul {
+    color: blue;
+  }
+  li{
+      color:violet;
+  }
+  a{
+      color: crimson;
+      font-size: 20px;
+
+  }
+  address{
+      color: yellow;
+  }
+ 
